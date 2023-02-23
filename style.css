@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 
 /* for padding between navbar and content */
@@ -15,7 +16,6 @@ html {
 .navbar-scroll .nav-link,
 .navbar-scroll .navbar-toggler-icon {
   color: #fff;
-  /* font-size: 1.5em; */
 
 }
 /* scrolling navbar */
@@ -93,22 +93,7 @@ animation:
   color:white;
 }
 
-/*mobile responsive code */
-/* @media (max-width:992px) {
-  .navbar-scroll .nav-link
-   {
-    font-size: 1em;
-  }
-  .navbar-scroll .navbar-toggler-icon
-  {
-    font-size: 1em;
-  }
-  strong
-  {
-    font-size: 1em;
-  }
 
-} */
 
 
 
